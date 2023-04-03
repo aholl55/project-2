@@ -1,13 +1,13 @@
 
-
 body {
-    background: linear-gradient(rgba(156, 195, 226, 0.79), rgba(43, 86, 114, 0.45)), url('/images/fight.jpg');
+    background: linear-gradient(rgb(156, 194, 226), rgba(69, 125, 161, 0.726));
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background size: cover;
     padding:12px 24px;
-  
-  } 
-  
+}
+
+
   h1 {
     color:  rgb(43, 82, 95);
     text-align: center;
