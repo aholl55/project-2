@@ -3,7 +3,6 @@ body {
     background: linear-gradient(rgb(156, 194, 226), rgba(69, 125, 161, 0.726));
     background-repeat: no-repeat;
     background-position: center;
-    background size: cover;
     padding:12px 24px;
 }
 
@@ -11,9 +10,11 @@ body {
   h1 {
     color:  rgb(43, 82, 95);
     text-align: center;
+    padding: 50px 50px 50px 50px
   }
 
   h2 {
     color:  rgb(64, 122, 141);
     text-align: center;
+    padding: 50px 50px 50px 50px
   }
