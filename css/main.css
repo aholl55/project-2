@@ -1,27 +1,15 @@
 
 body {
+    background-image: url("clouds.jpg");
     background: linear-gradient(rgb(156, 194, 226), rgba(69, 125, 161, 0.726));
     background-repeat: no-repeat;
     background-position: center;
     padding:12px 24px;
 }
 
-
-  h1 {
-    color:  rgb(43, 82, 95);
-    text-align: center;
-    padding: 25px 25px 25px 25px
-  }
-
-  h2 {
-    color:  rgb(64, 122, 141);
-    text-align: center;
-    padding: 50px 50px 50px 50px
-  }
-
-.row-one {
-    color:  rgb(255, 255, 255);
-    text-align: center;
+p {
     font-family: 'Rajdhani', sans-serif;
-    font-size: large;
+    color: rgb(201, 229, 253);
+    text-align: center;
+    font-size: xx-large;
 }
