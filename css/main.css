@@ -1,10 +1,14 @@
 
 body {
-    background-image: url("clouds.jpg");
-    background: linear-gradient(rgb(156, 194, 226), rgba(69, 125, 161, 0.726));
-    background-repeat: no-repeat;
-    background-position: center;
-    padding:12px 24px;
+    background:
+    linear-gradient(
+      rgb(151, 199, 230),
+      rgb(24, 44, 63)
+    
+    ),url(../img/clouds.jpg);
+
+
+
 }
 
 p {
@@ -12,4 +16,13 @@ p {
     color: rgb(201, 229, 253);
     text-align: center;
     font-size: xx-large;
+    padding: 15px 15px 15px 15px;
+}
+
+.four {
+    font-size: 55px;
+}
+
+.eight {
+    font-size: 75px;
 }
