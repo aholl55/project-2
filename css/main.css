@@ -1,8 +1,13 @@
 body {
-    background-color: lightblue;
+    background-color: rgba(151, 197, 212, 0.726);
   }
   
   h1 {
-    color: navy;
-    margin-left: 20px;
+    color:  rgb(43, 82, 95);
+    text-align: center;
+  }
+
+  h2 {
+    color:  rgb(64, 122, 141);
+    text-align: center;
   }
