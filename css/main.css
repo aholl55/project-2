@@ -1,15 +1,16 @@
 
+
 body {
+    
     background:
     linear-gradient(
       rgb(151, 199, 230),
       rgb(24, 44, 63)
     
     ),url(../img/clouds.jpg);
-
-
-
+    
 }
+
 
 p {
     font-family: 'Rajdhani', sans-serif;
@@ -21,8 +22,16 @@ p {
 
 .four {
     font-size: 55px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 900;
+    text-shadow: 2px 2px 5px rgb(18, 24, 59);
 }
+
+
 
 .eight {
     font-size: 75px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 900;
+    text-shadow: 2px 2px 5px rgb(18, 24, 59);
 }
